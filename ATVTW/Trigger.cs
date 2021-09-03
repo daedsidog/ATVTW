@@ -136,7 +136,7 @@ namespace ATVTW
                 if ( tokenizedInput[0] == "AcquireAncillary" && tokenizedInput.Length != 4 ) {
                     valid = false;
                     errorMsg += "Line " + lineNumber + " - Error: Too many arguments for AcquireAncillary " + tokenizedInput[1];
-                } else if ( tokenizedInput[0] == "Affects" && tokenizedInput.Length != 5 ) {
+                } else if ( tokenizedInput[0] == "Affects" && ( tokenizedInput.Length < 5 || tokenizedInput.Length > 6) ) {
                     valid = false;
                     errorMsg += "Line " + lineNumber + " - Error: Too many arguments for Affects " + tokenizedInput[1];
                 } else {

@@ -362,7 +362,7 @@ namespace ATVTW {
                     validInput = false;
                 }
             }
-            if(validInput && !reader.EndOfStream && tokenizedInput[0] != "" ){
+            if(validInput && !reader.EndOfStream && tokenizedInput[0] != "" && tokenizedInput[0] != "FakeEffect" ){
                 lblParseStatus.Text += Environment.NewLine + "Line " + lineNumber + " - Error parsing " + (parsingAncillaries ? "EDA" : "EDCT") + ": Expected End of File, Found " + tokenizedInput[0];
                 validInput = false;
             }
