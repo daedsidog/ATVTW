@@ -28,3 +28,13 @@ G:\Visual Studio Projects\ATVTW Ver 1\ATVTW\obj\Release\ATVTW.Properties.Resourc
 G:\Visual Studio Projects\ATVTW Ver 1\ATVTW\obj\Release\ATVTW.csproj.GenerateResource.Cache
 G:\Visual Studio Projects\ATVTW Ver 1\ATVTW\obj\Release\ATVTW.exe
 G:\Visual Studio Projects\ATVTW Ver 1\ATVTW\obj\Release\ATVTW.pdb
+C:\Users\Admin\Desktop\New folder\src\ATVTW\bin\Release\ATVTW.exe
+C:\Users\Admin\Desktop\New folder\src\ATVTW\bin\Release\ATVTW.pdb
+C:\Users\Admin\Desktop\New folder\src\ATVTW\obj\Release\ATVTW.AboutATVTW.resources
+C:\Users\Admin\Desktop\New folder\src\ATVTW\obj\Release\ATVTW.frmATVTW.resources
+C:\Users\Admin\Desktop\New folder\src\ATVTW\obj\Release\ATVTW.frmOptions.resources
+C:\Users\Admin\Desktop\New folder\src\ATVTW\obj\Release\ATVTW.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\src\ATVTW\obj\Release\ATVTW.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\src\ATVTW\obj\Release\ATVTW.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\src\ATVTW\obj\Release\ATVTW.exe
+C:\Users\Admin\Desktop\New folder\src\ATVTW\obj\Release\ATVTW.pdb
